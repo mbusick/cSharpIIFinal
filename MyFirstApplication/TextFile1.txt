@@ -1,0 +1,7 @@
+﻿Joe,Smith,123 Cool St.,Coolville,CO,12345,Developer,SCRIPT,0,Frank Jones,W2
+Curley,Flintstone,345 Rock St.,Bedrock,CA,78901,Developer,OOP,0,Frank Jones,W2
+Lary,Rubble,351 Rock St.,Bedrock,CA,78901,Manager,C43547,Joe Cool,NA
+Mo,Flintstone,345 Rock St.,Bedrock,CA,78901,Manager,C872345,Jose Cruz,NA
+Barney,Rubble,351 Rock St.,Bedrock,CA,78901,Developer,OOP,0,Betty Rubble,1099
+Pebbles,Flintstone,345 Rock St, Bedrock,CA,78901,Developer,WEB,0,Betty Rubble,1099
+Jack,Rubble,351 Rock St.,Bedrock,CA,78901,Developer,SCRIPT,0,Sam Smith,1099

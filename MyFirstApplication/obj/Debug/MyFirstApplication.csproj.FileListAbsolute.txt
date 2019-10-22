@@ -1,0 +1,10 @@
+C:\Users\matthewbusick\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csprojAssemblyReference.cache
+C:\Users\matthewbusick\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.txtName.resources
+C:\Users\matthewbusick\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.Properties.Resources.resources
+C:\Users\matthewbusick\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csproj.GenerateResource.cache
+C:\Users\matthewbusick\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\matthewbusick\source\repos\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe.config
+C:\Users\matthewbusick\source\repos\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe
+C:\Users\matthewbusick\source\repos\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.pdb
+C:\Users\matthewbusick\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.exe
+C:\Users\matthewbusick\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.pdb
